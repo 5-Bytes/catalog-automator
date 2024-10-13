@@ -1,0 +1,59 @@
+* {
+	margin: 0;
+	padding:0;
+	box-sizing: content-box;
+}
+
+body{
+	height: 100vh;
+	width: 100vw;
+}
+
+.box-logo, .box-links{
+	float:left;
+}
+
+footer{
+	width: 100%;
+	height: auto;
+	clear:left;
+}
+
+.logo-grenobil{
+	width: 100px;
+	height: 100px;
+}
+
+.logo-maps{
+	display: inline;
+	width: 100px;
+	height: 100px;
+}
+
+/* BOX DELIVERY*/
+
+.box-delivery{
+	width: 100%;
+}
+.logo-cart{
+	width: 100px;
+	height: 100px;
+}
+
+.picture-cart{
+	float:left;
+}
+
+.text-delivery{
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.logo-delivery{
+	width: auto;
+	height: 100px;
+}
+.picture-delivery{
+	float:right;
+}
